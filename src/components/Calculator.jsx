@@ -54,7 +54,7 @@ export default function Calculator() {
             setNum(parseFloat(oldNum) * parseFloat(num)  )
             
         }
-        
+        // teste
         
     }
     function clear(){
